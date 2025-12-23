@@ -1,0 +1,16 @@
+[
+    {
+        "email": "mhmd.marshoud@lau.edu",
+        "id": 2,
+        "name": "marshoud",
+        "phone": "70 234 567",
+        "totalBookings": 1
+    },
+    {
+        "email": "lana.fliti@lau.edu",
+        "id": 3,
+        "name": "lana",
+        "phone": "76 926 488",
+        "totalBookings": 1
+    }
+]

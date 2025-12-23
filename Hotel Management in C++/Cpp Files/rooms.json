@@ -1,0 +1,214 @@
+[
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 101,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 102,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 103,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 104,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 105,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 106,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 107,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 108,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 109,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 110,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 111,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 1,
+        "price": 150.0,
+        "reservationIds": [],
+        "roomNumber": 112,
+        "type": "Single"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [
+            3
+        ],
+        "roomNumber": 201,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 202,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 203,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 204,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 205,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 206,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 207,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 2,
+        "price": 220.0,
+        "reservationIds": [],
+        "roomNumber": 208,
+        "type": "Double"
+    },
+    {
+        "comments": [],
+        "floor": 3,
+        "price": 450.0,
+        "reservationIds": [
+            2
+        ],
+        "roomNumber": 301,
+        "type": "Suite"
+    },
+    {
+        "comments": [],
+        "floor": 3,
+        "price": 450.0,
+        "reservationIds": [],
+        "roomNumber": 302,
+        "type": "Suite"
+    },
+    {
+        "comments": [],
+        "floor": 3,
+        "price": 450.0,
+        "reservationIds": [],
+        "roomNumber": 303,
+        "type": "Suite"
+    },
+    {
+        "comments": [],
+        "floor": 3,
+        "price": 450.0,
+        "reservationIds": [],
+        "roomNumber": 304,
+        "type": "Suite"
+    },
+    {
+        "comments": [],
+        "floor": 3,
+        "price": 450.0,
+        "reservationIds": [],
+        "roomNumber": 305,
+        "type": "Suite"
+    },
+    {
+        "comments": [],
+        "floor": 3,
+        "price": 450.0,
+        "reservationIds": [],
+        "roomNumber": 306,
+        "type": "Suite"
+    }
+]
