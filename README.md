@@ -7,7 +7,7 @@ A console-based **hotel management system** written in C++ that manages **custom
 ## Contributors
 - **Lana Fliti** — [@Lana-fl](https://github.com/Lana-fl)
 - **Aline Diab** — [@alinediab](https://github.com/alinediab)
-- **Karim Nehme**
+- **Karim Nehme** — [@Karim-Nehme](https://github.com/Karim-Nehme)
 
 
 ## Table of Contents
