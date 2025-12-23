@@ -162,9 +162,9 @@ Exit (0) saves all data.
 
 Admin login is hardcoded:
 
-**Username: admin
+**Username: admin**
 
-Password: 1234**
+**Password: 1234**
 
 *(See HotelSystem::adminLogin())*
 
