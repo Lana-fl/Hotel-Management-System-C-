@@ -1,12 +1,33 @@
 # Smart Hotel System (C++)
+---
 
 A console-based **hotel management system** written in C++ that manages **customers**, **reservations**, and **rooms**, with **JSON persistence**, **date validation**, a simple **loyalty discount**, and an **admin panel** for operational actions.
 
 ---
 ## Contributors
--Lana Fliti @Lana-fl
--Aline Diab @alinediab
--Karim Nehme 
+- **Lana Fliti** — [@Lana-fl](https://github.com/Lana-fl)
+- **Aline Diab** — [@alinediab](https://github.com/alinediab)
+- **Karim Nehme**
+
+
+## Table of Contents
+1. [Features](#features)
+   - [Customer Management](#customer-management)
+   - [Reservation Management](#reservation-management)
+   - [Room Management](#room-management)
+   - [Scheduler](#scheduler)
+   - [Invoice & Loyalty Discount](#invoice--loyalty-discount)
+   - [Admin Panel](#admin-panel)
+2. [Project Structure](#project-structure)
+3. [Data Persistence](#data-persistence-json)
+4. [Requirements](#requirements)
+5. [Build & Run](#build--run)
+6. [Usage](#usage)
+7. [Admin Credentials](#admin-credentials)
+8. [Notes](#notes--known-portability-detail)
+9. [Possible Improvements](#possible-improvements)
+
+---
 
 ## Features
 
@@ -107,15 +128,15 @@ g++ -std=c++17 -O2 -o hotel_app ProjectCP2.cpp HotelSystem.cpp Scheduler.cpp
 ```
 **Option B: Visual Studio (Windows)**
 
--Create a new Console C++ project
+1.Create a new Console C++ project
 
--Add all .cpp and .h files
+2.Add all .cpp and .h files
 
--Ensure json.hpp is included in the project
+3.Ensure json.hpp is included in the project
 
--Set C++ Language Standard to C++17
+4.Set C++ Language Standard to C++17
 
--Build and run
+5.Build and run
 
 ## Usage
 
